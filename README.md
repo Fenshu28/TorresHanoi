@@ -6,8 +6,8 @@ Video juego drag and drop de las torres de Hanoi utilizando GTK y C.
  ejecutar el archivo prerrequisitos.sh con los siguientes comandos:
 - `sudo chmod +x ./prerrequisitos.sh`
 - `sudo bash prerrequisitos.sh`
-3.- Posteriormete ejecutamos el comand
+3. Posteriormete ejecutamos el comand
 - `make`
-4.- y por ultimo ejecutamos
+4. y por ultimo ejecutamos
 - `./TorresHanoi`
 Y listo a disfrutar de este juego :)

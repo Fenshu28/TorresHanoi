@@ -1,0 +1,33 @@
+#blackback-cont{
+	color: black;
+}
+
+.whiteback{
+	color: black;
+}
+
+.blackback{
+	color: white;
+}
+
+.Disco{
+	background: rgba(1,1,1,0);
+	border-style: none;
+    border-top-style: none;
+}
+
+.entryname{
+	color: white;
+	background: rgba(1,1,1,0);
+	border-style: none;
+    border-top-style: none;
+}
+
+#ErrWin{
+	background: rgba(0,0,0,0);
+	
+	background-image: url("./img/monjeErr.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50% auto;
+}
